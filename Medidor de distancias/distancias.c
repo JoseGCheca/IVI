@@ -214,7 +214,6 @@ static void mainLoop(void) {
     dataPtr2[camera_size - 3 - a] = dataPtr[a];
   }
 
-
   argDrawMode2D();
 
   // Dibujo el nuevo dataptr2
